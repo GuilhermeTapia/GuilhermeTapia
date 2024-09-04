@@ -1,4 +1,4 @@
-# [Seu nome] <img src="https://tenor.com/pt-BR/view/hakurei-reimu-touhou-touhou-project-osana-reimu-kys-gif-27445834" width="30px">
+# [Seu nome] <img src="https://teams.microsoft.com/l/message/48:notes/1725451851754?context=%7B%22contextType%22%3A%22chat%22%7D" width="30px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
