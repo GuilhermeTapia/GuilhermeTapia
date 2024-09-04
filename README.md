@@ -1,10 +1,10 @@
-# [Seu nome] <img src="https://teams.microsoft.com/l/message/48:notes/1725451851754?context=%7B%22contextType%22%3A%22chat%22%7D" width="30px">
+# [Guilherme] <img src="https://teams.microsoft.com/l/message/48:notes/1725451851754?context=%7B%22contextType%22%3A%22chat%22%7D" width="30px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Guilherme Enrique</strong>, <strong>OMAGAH</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>Python</strong> 
+- 💬 Pergunte-me sobre: <strong>ACFJD</strong>
+- 📣 Nós podemos falar em: <strong>English/PTBR</strong>
 
 <div align="center">
 
