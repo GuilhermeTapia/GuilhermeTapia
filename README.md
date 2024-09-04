@@ -1,10 +1,10 @@
-# [Guilherme] <img src="<div class="tenor-gif-embed" data-postid="27445834" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/hakurei-reimu-touhou-touhou-project-osana-reimu-kys-gif-27445834">Hakurei Reimu Touhou GIF</a>from <a href="https://tenor.com/search/hakurei+reimu-gifs">Hakurei Reimu GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="30px">
+# [Seu nome] <img src="https://tenor.com/pt-BR/view/hakurei-reimu-touhou-touhou-project-osana-reimu-kys-gif-27445834" width="30px">
 
-Eu sou <strong>Guilherme Enrique</strong>, <strong>bla bla bla</strong> 👨🏻‍💻 
+Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Python</strong> 
-- 💬 Pergunte-me sobre: <strong>ACFJD</strong>
-- 📣 Nós podemos falar em: <strong>Português e inglês</strong>
+- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
+- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
+- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
 
 <div align="center">
 
