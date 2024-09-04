@@ -1,4 +1,4 @@
-# [Guilherme] <img src="(https://tenor.com/pt-BR/view/hakurei-reimu-touhou-touhou-project-osana-reimu-kys-gif-27445834)" width="30px">
+# [Guilherme] <img src="https://images.app.goo.gl/3pqunETnHCiuo1496" width="30px">
 
 Eu sou <strong>Guilherme Enrique</strong>, <strong>OMAGAH</strong> 👨🏻‍💻 
 
