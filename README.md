@@ -1,10 +1,10 @@
-# [Seu nome] <img src="https://images-ext-1.discordapp.net/external/rXHddDbCZkGBbNe8eXQJuqwQai8zjAQX_ClvQhQfGdk/https/media.tenor.com/Ceo74r1vPrYAAAPo/hakurei-reimu-touhou.mp4" width="100px">
+# [Guilherme] <img src="https://media.tenor.com/Ceo74r1vPrYAAAPo/hakurei-reimu-touhou.mp4" width="30px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Guilherme Enrique</strong>, <strong>bla bla bla</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>Python</strong> 
+- 💬 Pergunte-me sobre: <strong>ACFJD</strong>
+- 📣 Nós podemos falar em: <strong>Português e inglês</strong>
 
 <div align="center">
 
