@@ -1,4 +1,5 @@
-# [Guilherme] <img src="https://teams.microsoft.com/l/message/48:notes/1725451851754?context=%7B%22contextType%22%3A%22chat%22%7D" width="30px">
+# [Guilherme] <img src="![image](https://github.com/user-attachments/assets/2888b619-97d4-4b22-9ee2-452831eb276c)
+" width="30px">
 
 Eu sou <strong>Guilherme Enrique</strong>, <strong>OMAGAH</strong> 👨🏻‍💻 
 
