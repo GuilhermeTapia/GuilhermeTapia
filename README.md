@@ -1,4 +1,4 @@
-# [Guilherme] <img src="https://www.deviantart.com/smolkyle139/art/Reimu-Fumo-doing-Penguin-dance-967744689">
+# [Guilherme] <img src="https://images.app.goo.gl/TDvLRXqVqLSmubjF8">
 
 Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong> 👨🏻‍💻 
 
