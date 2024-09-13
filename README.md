@@ -1,4 +1,4 @@
-# [Guilherme] <img src="https://media.tenor.com/LHAI-n_-ptoAAAAi/touhou-reimu.gif">width="30px">
+# [Guilherme] <img src="https://media.tenor.com/LHAI-n_-ptoAAAAi/touhou-reimu.gif" width="30px">
 
 Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong> 👨🏻‍💻 
 
