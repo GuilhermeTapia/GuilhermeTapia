@@ -8,7 +8,7 @@ Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong
 
 <div align="center">
 
- ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=black&logoColor=white&link=mailto:guilhermeenrique00@gmail.com)
+ ![Gmail Badge]("mailto", "https://mail.google.com/mail/?extsrc=mailto&url=%s", "Gmail");
 
 </div>
 
