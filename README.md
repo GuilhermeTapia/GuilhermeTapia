@@ -8,11 +8,7 @@ Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong
 
 <div align="center">
 
-  <a href = "(https://mail.google.com/mail/?extsrc=mailto&url=%s","guilhermeenrique00@gmail.com" target="_blank"> <img align="center" src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Gmail </a>
-</p>
-
-
-<div align="center">
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=black&logoColor=white&link=mailto:guilhermeenrique00@gmail.com)
 
 </div>
 
