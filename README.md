@@ -31,6 +31,6 @@ Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong
 
 ![GuilhermeTapia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeTapia&theme=vue-dark&hide_border=true)
 =======
-![GuilhermeTapia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTapia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact.)
+![GuilhermeTapia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTapia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact).
 
   </div>
