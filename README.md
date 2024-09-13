@@ -9,7 +9,7 @@ Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong
 <div align="center">
 
   <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox"/></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://myaccount.google.com/?hl=pt_BR&utm_source=OGB&utm_medium=act&pli=1"/></a>
 
 <div align="center">
 
