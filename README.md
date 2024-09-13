@@ -1,4 +1,4 @@
-# [Guilherme] <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5c021aaf-dbf1-4237-a65b-7f76d68637a4/dg064kx-774ace67-0a16-424d-90e0-5c5e65bedaf4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVjMDIxYWFmLWRiZjEtNDIzNy1hNjViLTdmNzZkNjg2MzdhNFwvZGcwNjRreC03NzRhY2U2Ny0wYTE2LTQyNGQtOTBlMC01YzVlNjViZWRhZjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eTeMrehc5s8g8A6bj6k171IHLT2kuX1F79qKZqrqTN4">
+# [Guilherme] <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Ftouhou-reimu-fumo-club-penguin-dance-gif-22023426&psig=AOvVaw2ZmfuGFGxj-4N9Bews1iNb&ust=1726338146858000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCE6PHEwIgDFQAAAAAdAAAAABAI">
 
 Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong> 👨🏻‍💻 
 
