@@ -1,4 +1,4 @@
-# [Guilherme] <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Ftouhou-reimu-fumo-club-penguin-dance-gif-22023426&psig=AOvVaw2ZmfuGFGxj-4N9Bews1iNb&ust=1726338146858000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCE6PHEwIgDFQAAAAAdAAAAABAI">
+# [Guilherme] <img src="https://media.tenor.com/LHAI-n_-ptoAAAAi/touhou-reimu.gif">
 
 Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong> 👨🏻‍💻 
 
