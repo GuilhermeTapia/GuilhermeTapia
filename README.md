@@ -27,12 +27,12 @@ Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong
 
 <div align="center">
 
-(![GuilhermeTapia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeTapia&theme=vue-dark&hide_border=true))
+(![GuilhermeTapia's Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeTapia&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+(![GuilhermeTapia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeTapia&theme=vue-dark&hide_border=true)
 =======
 >>>>>>> a4a2cab57174f77be8802b734726a13df5e1bab1
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+[![Top Langs](![GuilhermeTapia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTapia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact))
 
   </div>
