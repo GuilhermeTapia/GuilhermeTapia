@@ -1,4 +1,4 @@
-# [Guilherme] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# [Guilherme] <img src="https://www.deviantart.com/smolkyle139/art/Reimu-Fumo-doing-Penguin-dance-967744689">
 
 Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong> 👨🏻‍💻 
 
@@ -21,8 +21,8 @@ Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong
 
 <p align="center">
   <strong>Primeiro período no Senac</strong><br>
-  <strong>Estudando Análise e Desenvolviomento de Sistemas(Kotlin, Mongo, ...)</strong>📚<br>
-  <strong>Um pouco de Python(Git/Github, Java, OO, ...)</strong>🚀<br>
+  <strong>Estudando Análise e Desenvolviomento de Sistemas</strong>📚<br>
+  <strong>(Python/Github)</strong>🚀<br>
 </p>
 
 <div align="center">
@@ -31,6 +31,6 @@ Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong
 
 ![GuilhermeTapia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeTapia&theme=vue-dark&hide_border=true)
 =======
-![GuilhermeTapia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTapia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact).
+![GuilhermeTapia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTapia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
   </div>
