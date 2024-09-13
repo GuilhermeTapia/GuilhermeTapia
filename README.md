@@ -8,7 +8,7 @@ Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong
 
 <div align="center">
 
-  <a href = "("mailto","https://mail.google.com/mail/?extsrc=mailto&url=%s","guilhermeenrique00@gmail.com");" target="_blank"> <img align="center" src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Gmail </a>
+  <a href = "(https://mail.google.com/mail/?extsrc=mailto&url=%s","guilhermeenrique00@gmail.com" target="_blank"> <img align="center" src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Gmail </a>
 </p>
 
 
