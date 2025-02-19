@@ -25,14 +25,6 @@ Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong
 
 ![GuilhermeTapia's Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeTapia&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-#!/bin/bash
-set -e
-
-cd /workspaces/github-readme-streak-stats
-if [ -n "$GITHUB_TOKEN" ]; then
-  echo "TOKEN=$GITHUB_TOKEN" > .env
-fi
-
 ![GuilhermeTapia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTapia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
   </div>
