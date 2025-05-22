@@ -1,4 +1,4 @@
-# [Guilherme] <img src="https://media1.tenor.com/m/WhfBTiAqGegAAAAC/mega-man.gif" width="60px">
+# [Guilherme] <img src="https://media.tenor.com/aO_w3r7kJgEAAAAi/mega-man-mega-man-dance.gif" width="60px">
 
 Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong> 👨🏻‍💻 
 
