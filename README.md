@@ -2,7 +2,7 @@
 
 Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Python</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Java/HTML/CSS/JavaScript</strong> 
 - 💬 Pergunte-me sobre: <strong>Programação, jogos e músicas</strong>
 - 📣 Nós podemos falar em: <strong>Português</strong>
 
@@ -16,9 +16,9 @@ Eu sou <strong>Guilherme</strong>, <strong>seja bem vindo ao meu perfil!</strong
 <h3 align="center"><strong>Futuro Back-End || Front-End || FullStack </strong> Developer 💻</h3>
 
 <p align="center">
-  <strong>Primeiro período na UNIFAFIRE</strong><br>
+  <strong>Segundo período na UNIFAFIRE</strong><br>
   <strong>Estudando Análise e Desenvolviomento de Sistemas</strong>📚<br>
-  <strong>(Python/Github)</strong>🚀<br>
+  <strong>(Python/Github/Java/HTML/CSS/JavaScript)</strong>🚀<br>
 </p>
 
 <div align="center">
